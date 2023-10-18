@@ -6,7 +6,7 @@ This library is based on and inspired by the library "[flutter_reachability](htt
 
 This library uses the following dependencies but it is not necessary to place it in pubspec.yalm because everything is already included in the "Network_type_reachability" library
 
-- [permission_handler: 9.2.0](https://pub.dev/packages/permission_handler/versions/9.2.0)<br>
+- [permission_handler: 10.2.0](https://pub.dev/packages/permission_handler/versions/10.2.0)<br>
 - [dart_ping: ^6.1.2](https://pub.dev/packages/dart_ping/versions/6.1.2)<br>
 - [dart_ping_ios: ^1.1.0](https://pub.dev/packages/dart_ping_ios/versions/1.1.0)
 
